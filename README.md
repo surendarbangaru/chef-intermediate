@@ -1,12 +1,12 @@
 # Chef Intermediate
 
+## Agenda
+
 * Building Custom Resources
 * Writing Ohai Plugins
 * Chef-Client Internals
 * Implementing Chef Handlers
-* Cookbook Style and Correctness
-* Foodcritic
-* Rubocop
+* Cookbook Style and Correctness with Foodcritic and Rubocop
 * Introduction to ChefSpec
 
 ## Node Setup
